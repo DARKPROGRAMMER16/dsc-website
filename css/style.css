@@ -1,0 +1,11 @@
+/* import google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+/* css variable */
+@import url('/css/partials/_variables.css');
+
+.logo{
+    display: block;
+    width: 8%;
+    margin: 0px  20px;
+}
